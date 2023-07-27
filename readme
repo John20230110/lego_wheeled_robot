@@ -1,0 +1,6 @@
+About half of a year ago, I promise to buy a programming lego robot to my nephew as his birthday gift in Augest, a robot that can be added a verity of sensors and actors. 
+After seeing the price of lego mindstrom on the online shop, I regret to my promise. 
+So I turned to a cheap alternative one, the one that use cheap lego power up motors as actors and arduino as the controler.
+
+As the first robot, I decide to construct a wall-e robot using lego technique parts.
+The inital code is copied from the book 'Make an Arduino-Controlled Robot'.
